@@ -1,5 +1,6 @@
 # Not-Another-Programing-Language
 Holy mackarel! Another language!
+As of now, it only parses math expressions
 
 ## Licence
 napl.c is licenced under GPLv2
