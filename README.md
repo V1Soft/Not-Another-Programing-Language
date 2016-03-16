@@ -1,4 +1,4 @@
-# Not-Another-Programing-Language
+# Not-Another-Programing-Language or Napl a.k.a. Not APpLe
 Holy mackarel! Another language!
 As of now, it only parses math expressions
 
